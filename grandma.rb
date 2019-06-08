@@ -14,3 +14,5 @@
 
 def speak_to_grandma(input)
   if input != input.upcase
+    puts "HUH?! SPEAK UP, SONNY!"
+  end
